@@ -1,10 +1,10 @@
 <h3>Project name:</h3>
 <h2> so_long</h2>
 
-<p><b>Project description:</b></p>
+<p>Project description:</p>
 This project is a small 2D game with minilibx. Its purpose is to work with textures, sprites, and some other very basic gameplay elements.
 
-<p><b>Task:</b></p>
+<p>Task:</p>
 <p>Your project must comply with the following rules:</p>
 <p>• You must use the MiniLibX. Either the version available on the school machines, or installing it using its sources.</p>
 <p>• You have to turn in a Makefile which will compile your source files. It must not relink.</p>
