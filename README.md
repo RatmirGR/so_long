@@ -1,10 +1,10 @@
 <h3>Project name:</h3>
 <h2> so_long</h2>
 
-<p>Project description:</p>
+<p><ins>Project description:</ins></p>
 This project is a small 2D game with minilibx. Its purpose is to work with textures, sprites, and some other very basic gameplay elements.
 <p></p>
-<p>Task:</p>
+<p><ins>Task:</ins></p>
 <p>Your project must comply with the following rules:</p>
 <p>• You must use the MiniLibX. Either the version available on the school machines, or installing it using its sources.</p>
 <p>• You have to turn in a Makefile which will compile your source files. It must not relink.</p>
@@ -42,7 +42,7 @@ This project is a small 2D game with minilibx. Its purpose is to work with textu
 <p>• You don’t have to check if there’s a valid path in the map.</p>
 <p>• You must be able to parse any kind of map, as long as it respects the above rules</p>
 
-<p>Bonus part</p>
+<p><ins>Bonus part</ins></p>
 <p>Usually, you would be encouraged to develop your own original extra features. However, there will be much more interesting graphic projects later. They are waiting for you!!</p>
 <p>Don’t lose too much time on this assignment!</p>
 <p>You are allowed to use other functions to complete the bonus part as long as their use is justified during your evaluation. Be smart!</p>
